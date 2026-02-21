@@ -1,5 +1,5 @@
 # signaldetector
-An esp8266 signal detector to find rogue devices with high RSSI signals.
+A signal detector to find rogue devices with high RSSI signals.
 <br>
 • git clone https://github.com/jgtoves/signaldetector
 <br>
