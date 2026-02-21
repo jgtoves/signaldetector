@@ -1,8 +1,8 @@
 # signaldetector
 A signal detector to find rogue devices with high RSSI signals.
-<cd>
+<br>
 • git clone https://github.com/jgtoves/signaldetector
-<cd>
+<br>
 • cd signaldetector
-<cd>
+<br>
 • python signaldetector.py
