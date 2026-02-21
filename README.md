@@ -8,3 +8,4 @@ A signal detector to find rogue devices with high RSSI signals.
 • python signaldetector.py
 
 # Requires root! 
+# Dependencies: scapy
